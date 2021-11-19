@@ -247,7 +247,7 @@ form div button:hover{
         text-align: right;
     }
     .burger-menu{
-        display: none;
+        display: block;
     }
     .main-navbar{
         display: flex;
